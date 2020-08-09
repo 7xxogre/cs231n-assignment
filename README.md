@@ -8,6 +8,9 @@ https://cs231n.github.io/assignments2019/assignment1/
 you can download it from the zip file of link above
 
 
+
+
+
 스탠포드 컴퓨터 비전 강좌인 cs231n의 과제.
 
 과제는 2019년도 과제로
