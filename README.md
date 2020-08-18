@@ -4,6 +4,7 @@ assignment of cs231n which computer vision course at stanford univ
 This assignment is for 2019
 
 https://cs231n.github.io/assignments2019/assignment1/
+
 https://cs231n.github.io/assignments2019/assignment2/
 
 you can download it from the zip file of link above
@@ -18,6 +19,7 @@ Since "scipy" package's imread and imresize functions cannot be used, imread has
 과제는 2019년도 과제로
 
 https://cs231n.github.io/assignments2019/assignment1/
+
 https://cs231n.github.io/assignments2019/assignment2/
 
 위 링크 setup의 zip 파일에서 받으실 수 있습니다.
