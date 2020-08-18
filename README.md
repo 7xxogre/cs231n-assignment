@@ -7,7 +7,7 @@ https://cs231n.github.io/assignments2019/assignment1/
 
 you can download it from the zip file of link above
 
-
+Since "scipy" package's imread and imresize functions cannot be used, imread has been replaced matplotlib's function and imresize has been replaced PIL and numpy's functions.
 
 
 
@@ -18,3 +18,5 @@ you can download it from the zip file of link above
 https://cs231n.github.io/assignments2019/assignment1/
 
 위 링크 setup의 zip 파일에서 받으실 수 있습니다.
+
+scipy 패키지의 imread, imresize 함수를 사용 할 수 없어, imread는 matplotlib로 imresize는 PIL과 numpy의 함수들로 대체하였습니다.
