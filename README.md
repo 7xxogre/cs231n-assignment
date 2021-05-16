@@ -1,4 +1,4 @@
-# cs231n-assignment-korea
+# cs231n-assignment
 assignment of cs231n which computer vision course at stanford univ
 
 This assignment is for 2019
